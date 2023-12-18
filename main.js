@@ -1,4 +1,5 @@
 import * as THREE from 'three';
+import gsap from 'gsap';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 
 //Scene
@@ -67,3 +68,9 @@ const loop = () => {
   window.requestAnimationFrame(loop);
 }
 loop();
+
+// Timeline
+const tl = gsap.timeline({defaults: {duration: 2}});
+tl.fromTo(mesh.scale,{x: 0, y: 0, z: 0},{x: 1, y: 1, z: 1});
+tl.fromTo('nav', {y: "-100%"}, {y:"0%"})
+tl.fromTo('#title', {opacity: 0}, {opacity: 1})
