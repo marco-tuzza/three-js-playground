@@ -25,19 +25,48 @@ nav {
   justify-content: space-between;
 }
 
-nav a {
+nav span {
   color: white;
   text-decoration: none;
   font-size: 2rem;
   font-weight: bold;
 }
 
-#title {
+nav a {
+  color: white;
+  font-size: 1rem;
+}
+
+.sphere-text {
   color: white;
   z-index: 2;
+  font-weight: bold;
   position: absolute;
   font-size: 3rem;
   left: 50%;
   top: 75%;
   transform: translate(-50%, -50%);
+}
+
+
+@media screen and (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    align-items: center;
+  }
+  nav span {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  nav a {
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  .sphere-text {
+    top: 90%;
+    font-size: 2rem;
+    text-align: center;
+  }
 }
