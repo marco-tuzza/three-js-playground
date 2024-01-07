@@ -29,7 +29,7 @@ This project utilizes various technologies:
 
 ## Credits
 
-This project was greatly inspired by the tutorial from "developedbyed." A special thank for his comprehensive and insightful tutorial on creating a 3D interactive sphere using Three.js and GSAP. His guidance through the video was instrumental in the realization of the sphere and its animations in this project.
+This project was greatly inspired by the tutorial from [developedbyed](https://www.youtube.com/@developedbyed). A special thank for his comprehensive and [insightful tutorial on creating a 3D interactive sphere using Three.js and GSAP](https://www.youtube.com/watch?v=_OwJV2xL8M8). His guidance through the video was instrumental in the realization of the sphere and its animations in this project.
 
 ## License
 
