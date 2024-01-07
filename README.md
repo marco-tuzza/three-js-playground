@@ -27,6 +27,10 @@ This project utilizes various technologies:
 -   Three.js for 3D rendering
 -   GSAP for animation
 
+## Credits
+
+This project was greatly inspired by the tutorial from "developedbyed." A special thank for his comprehensive and insightful tutorial on creating a 3D interactive sphere using Three.js and GSAP. His guidance through the video was instrumental in the realization of the sphere and its animations in this project.
+
 ## License
 
 This project is open source and available under the [MIT License](https://chat.openai.com/c/LICENSE).
