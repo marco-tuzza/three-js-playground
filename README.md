@@ -21,11 +21,11 @@ Experience the live demo of this project at [Three.js playground](https://marco-
 
 This project utilizes various technologies:
 
--   HTML5
--   CSS3
--   JavaScript
--   Three.js for 3D rendering
--   GSAP for animation
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js Badge](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP Badge](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ## Credits
 
