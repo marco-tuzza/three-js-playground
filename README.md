@@ -5,6 +5,8 @@
 
 This project is a visually engaging 3D web experience created using Three.js and GSAP (GreenSock Animation Platform). It features an interactive 3D sphere that changes its color based on user interaction. The application showcases the capabilities of WebGL for rendering 3D graphics in web browsers.
 
+*Still work in progress...*
+
 ## Features
 
 -   **3D Sphere**: A dynamically rendered sphere demonstrating 3D capabilities.
